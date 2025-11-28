@@ -7,8 +7,8 @@ A simple browser-based Spam Detection tool that checks text for spam keywords an
 ## 🚀 Live Demo
 
 Visit the hosted project here:
-**https://<your-username>.github.io/spam-detector/**
-(Replace `<your-username>` with your GitHub username)
+[**https://<your-username>.github.io/spam-detector/**
+](https://amosndunda253-cell.github.io/spam-detector/)
 
 ---
 
@@ -68,3 +68,4 @@ This document covers:
 
 **Amos Ndunda**
 Student Project – Spam Detector
+
