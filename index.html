@@ -3,18 +3,31 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Spam Detector</title>
+    <title>Spam Detector Pro</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <div class="container">
-        <h1>Spam Detector</h1>
-
-        <textarea id="messageInput" placeholder="Paste your message here..."></textarea>
-
-        <button id="checkBtn">Check Spam</button>
-
-        <div id="result"></div>
+        <h1>🚨 Spam Detector Pro</h1>
+        <p class="subtitle">Advanced spam detection with real-time analysis</p>
+        
+        <div class="message-input-container">
+            <textarea 
+                id="messageInput" 
+                placeholder="Paste your message here to check for spam..."
+            ></textarea>
+            <div id="charCount" class="char-count">0 characters</div>
+        </div>
+        
+        <button id="checkBtn" class="btn-detect">🔍 Detect Spam</button>
+        
+        <div id="result" class="hidden"></div>
+        
+        <div class="pdf-section">
+            <a href="Spam Detector Toolkit.pdf" target="_blank" class="pdf-link">
+                📄 View Detailed Documentation
+            </a>
+        </div>
     </div>
 
     <script src="script.js"></script>
