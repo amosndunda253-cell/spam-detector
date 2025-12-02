@@ -65,5 +65,9 @@ This document covers:
 
 ## 👨‍💻 Author
 
-**Amos Ndunda**
-Student Project – Spam Detector
+**Amos Ndunda**  
+Student Project – Spam Detector  
+
+**GitHub:** [@amosndunda253-cell](https://github.com/amosndunda253-cell)  
+**Project Repository:** [spam-detector](https://github.com/amosndunda253-cell/spam-detector)  
+**Live Demo:** [https://amosndunda253-cell.github.io/spam-detector/](https://amosndunda253-cell.github.io/spam-detector/)
