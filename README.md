@@ -34,7 +34,7 @@ Visit the hosted project here:
 * `index.html` – Main UI
 * `style.css` – Styling
 * `script.js` – Spam detection logic
-* `Spam Detector Toolkit.pdf` – Full project documentation
+* `Spam_Detector_Toolkit.pdf` – Full project documentation
 * `README.md` – Project overview
 
 ---
@@ -49,9 +49,8 @@ Visit the hosted project here:
 
 ## 📘 Documentation
 
-[**Download Spam Detector Toolkit PDF**](Spam%20Detector%20Toolkit.pdf)
-
-A full detailed toolkit is included in the PDF above.
+A full detailed toolkit is included here:
+[**Spam_Detector_Toolkit.pdf**](Spam_Detector_Toolkit.pdf)
 
 This document covers:
 
@@ -61,8 +60,6 @@ This document covers:
 * AI prompts used
 * Learning reflections
 * Common errors & solutions
-
-> 💡 **Tip:** If the PDF doesn't display in your browser, click the "Download" button or right-click the link and select "Save link as" to view the file.
 
 ---
 
