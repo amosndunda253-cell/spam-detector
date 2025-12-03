@@ -7,7 +7,7 @@ A simple browser-based Spam Detection tool that checks text for spam keywords an
 ## 🚀 Live Demo
 
 Visit the hosted project here:
-[**https://amosndunda253-cell.github.io/spam-detector/**](https://amosndunda253-cell.github.io/spam-detector/)
+**https://amosndunda253-cell.github.io/spam-detector/**
 
 ---
 
@@ -50,7 +50,7 @@ Visit the hosted project here:
 ## 📘 Documentation
 
 A full detailed toolkit is included here:
-[**Spam_Detector_Toolkit.pdf**](Spam_Detector_Toolkit.pdf)
+**https://github.com/amosndunda253-cell/spam-detector/blob/main/Spam_Detector_Toolkit.pdf**
 
 This document covers:
 
@@ -68,5 +68,5 @@ This document covers:
 **Amos Ndunda**  
 Student Project – Spam Detector  
 
-**GitHub Repository:** [amosndunda253-cell/spam-detector](https://github.com/amosndunda253-cell/spam-detector)  
-**Live Demo:** [https://amosndunda253-cell.github.io/spam-detector/](https://amosndunda253-cell.github.io/spam-detector/)
+**GitHub Repository:** **https://github.com/amosndunda253-cell/spam-detector**  
+**Live Demo:** **https://amosndunda253-cell.github.io/spam-detector/**
